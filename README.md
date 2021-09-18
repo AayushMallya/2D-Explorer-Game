@@ -11,7 +11,7 @@
 
 ## Overview
 
-Link's True Journey is a 2D open-world game created using Javascript for my Grade 11 Computer Science Summative. The objective is to explore the large map, upgrade your equipment, battle monsters, collect treasure chests and visit unique characters along the way!
+Link's True Journey is a 2D open-world explorer game created using Javascript. Explore the world, collect treasures, upgrade your equipment, battle differenet monsters and meet new characters!
 
 ## Demo
 
@@ -20,16 +20,16 @@ Link's True Journey is a 2D open-world game created using Javascript for my Grad
 
 ## How to Load Game
 
-Simply clone the Github repository to a local directory and open the `Game.html` file using a web browser like Google Chrome.
+Download the code as a zip and extract it to a location of your choosing. Then simply open 'Game.html' using a web browser, (preferably Chrome), and enjoy!
 
 ## Features
 
-- Open-world (large map, just hold M and see for yourself!)
-- Ability to upgrade your equipment 
-- Battle powerful enemies
-- Find cool loot like treasure chests around the map
-- Visit some really bizarre characters that you might know of!
-- Nice music
+- A large fully explorable map
+- Fight monsters using the intricate battle system!
+- Collect treasure hidden throughout the map
+- Upgrade your equipment and abilites 
+- Meet iconic characters along the way 
+
 
 ## Technologies Used
 
