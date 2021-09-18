@@ -1,14 +1,5 @@
 # Link's True Journey
 
-## Table of Contents
-
-- [Overview](#Overview)
-- [Demo](#Demo)
-- [How to Load Game](#how-to-load-game)
-- [Features](#Features)
-- [Technologies Used](#technologies-used)
-- [Acknowledgements](#acknowledgements)
-
 ## Overview
 
 Link's True Journey is a 2D open-world explorer game created using Javascript. Explore the world, collect treasures, upgrade your equipment, battle differenet monsters and meet new characters!
